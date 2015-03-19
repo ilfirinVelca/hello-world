@@ -1,2 +1,6 @@
 # hello-world
-learning to make a repository
+=============
+
+Hello!
+
+This is my first github project!
